@@ -1,0 +1,6 @@
+export const ActionTypes = {
+	FETCH_DATA: "FETCH_DATA",
+	ROW_DATA: "ROW_DATA",
+	PAGE_COUNT: "PAGE_COUNT",
+	ALL_PAGES: "ALL_PAGES",
+};
